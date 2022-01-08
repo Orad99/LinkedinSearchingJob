@@ -5,7 +5,7 @@ This project is made for anyone who is looking for technological Student/Junior 
 
 # How does it work
 You loggin to your account in Linkedin, behind the scenes using Selenium we gathering all the posts in your feed,
-we filtering the posts and exporting to csv all the links that relaventing to you by ascending order.
+we filtering the posts and exporting to csv by ascending order all the links that relaventing to you.
 
 # Tools used for the project
 * Selenium
