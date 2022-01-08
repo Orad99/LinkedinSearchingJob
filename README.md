@@ -1,4 +1,4 @@
-# Searching For Student/Junior Position Via Linkedin Bot
+# Searching Student/Junior Position Via Linkedin Bot
 
 # Introduction
 This project is made for anyone who is looking for technological Student/Junior position or Entry-level jobs.
