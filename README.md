@@ -12,6 +12,7 @@ we filtering the posts and exporting to csv by ascending order all the links tha
 * Multi-threading
 * Beautifulsoup
 * Pandas
+* Python-GUI
 
 # Deploy the application
 
@@ -22,6 +23,8 @@ we filtering the posts and exporting to csv by ascending order all the links tha
     Click Help > About Chrome.
   3. Download the right <a href="https://chromedriver.chromium.org/">Chrome-Driver<a> version  
   4. Install Selenium via your terminal environment, just run this command ```` pip install selenium ````
+  5. In Linkedin_bot file change the path of the chrome driver (line 49).
+  6. Open Find_job_v1 and loggin.
   
   
 
