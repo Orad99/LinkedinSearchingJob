@@ -4,11 +4,7 @@
 This project is made for anyone who is looking for technological Student/Junior position or Entry-level jobs.
 
 # How does it works
-After loggin to the linkedin account, behind the scenes all the data posts in the feed are gathering by using Selenium, and get filtered.
-Then, the relevant posts exporting to CSV file and and being sorted by ascending order.
-
-You loggin to your account in Linkedin, behind the scenes using Selenium we gathering all the posts in your feed,
-we filtering the posts and exporting to csv by ascending order all the links that relaventing to you.
+First, the user needs to insert the credentials in order to log-in. Once the log in was successful, the script starts crawling the feed data by using Selenium library. The second part of the process is to determine which posts are pertinent and export them into a CSV file. The CSV file is sorted by a ascending order.
 
 # Tools used for the project
 * Selenium
